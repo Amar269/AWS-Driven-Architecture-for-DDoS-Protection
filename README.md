@@ -73,7 +73,10 @@ The architecture is powered by industry-leading AWS services, such as AWS WAF, A
 ## 5. Architecture Diagram
 
 The architecture diagram is a visual representation of the DDoS protection solution. It showcases the integration of AWS services, traffic flow, and layers of protection. Place the architecture diagram here to provide readers with a clear understanding of the system design.
+
+
 ![image](https://github.com/user-attachments/assets/d1edeba1-574d-4df4-b516-263c56668222)
+
 
 ## 6. Conclusion
 
