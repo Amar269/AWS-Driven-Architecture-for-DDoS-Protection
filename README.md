@@ -38,11 +38,7 @@ The architecture is powered by industry-leading AWS services, such as AWS WAF, A
   - AWS CloudWatch (Monitoring and Logging).
   - EC2 Instances (Compute resources).
   - Elastic Load Balancers and Auto Scaling Groups.
-
-- **Programming and Frameworks**:
-  - Machine Learning integration for anomaly detection.
-  - Infrastructure as Code (IaC) using AWS CloudFormation or Terraform.
-
+    
 ## 4. Steps to Implement
 
 ### Step 1: Initial Setup
